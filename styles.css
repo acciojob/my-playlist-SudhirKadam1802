@@ -6,6 +6,9 @@
     h1 {
       text-align: center;
     }
+    a{
+	  text-decoration-line:none;
+	}
 
     .flex-container {
       border: 1px solid black;
